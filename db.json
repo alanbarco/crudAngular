@@ -1,0 +1,32 @@
+{
+  "listaProductos": [
+    {
+      "nombreProducto": "iPhone 14",
+      "categoria": "Electrodomesticos",
+      "fecha": "2022-11-15T05:00:00.000Z",
+      "calidad": "Segunda mano",
+      "precio": 400,
+      "comentario": "iPhone de segunda mano, con pantalla un poco rota.",
+      "id": 2
+    },
+    {
+      "nombreProducto": "Manzana",
+      "categoria": "Electrodomesticos",
+      "fecha": "2022-11-04T05:00:00.000Z",
+      "calidad": "Segunda mano",
+      "precio": 1,
+      "comentario": "Manzanas provenientes de la sierra ecuatoriana.",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
